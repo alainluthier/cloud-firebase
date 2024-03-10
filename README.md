@@ -1,8 +1,15 @@
 # Overview
 
-This is a basic Hello World program. I created it to demonstrate how to integrate Github, Visual Studio, and Python.
+This app is about personal budget management, where users, income, expenses, and categories are recorded. I created this app to demonstrate how Python works with the Firebase cloud database.
 
-[Software Demo Video](http://youtube.link.goes.here)
+The application has the following features:
+* Database created on Firebase.
+* Connecting to Firebase database from Python.
+* Creating API in Python using Flask.
+* API can read, insert, update and delete data on Firebase.
+* Data validation in the API to avoid recording incomplete or incorrect data.
+
+[Software Demo Video](https://youtu.be/5GNY4wuddOQ)
 
 # Development Environment
 
